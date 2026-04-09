@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![My Contributions](my-contributions.svg)
+
 <!--
 **asolenzal/asolenzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
